@@ -3,14 +3,14 @@ Web site to backing learning.
 
 # Instructions
 
-- git clone git@github.com:JonathanRamirezJ/backingApp.git
+- $ git clone 'git@github.com:JonathanRamirezJ/backingApp.git'
 
-- cd backingApp
+- $ cd backingApp
 
-- npm install
+- $ npm install
 
 # PR and issues
 
 - "title-Autor-date"
 
-- Example:  "AddReadme-JonathanRamirez-08/sep/2016"
+- Example:  "AddReadme-JonathanRamirez-08sep2016"

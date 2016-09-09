@@ -1,0 +1,35 @@
+{
+  "name": "backingApp",
+  "version": "1.0.0",
+  "description": "Website to backing learning write and read.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "node_modules/.bin/webpack-dev-server --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanRamirezJ/backingApp"
+  },
+  "keywords": [
+    "react",
+    "learning",
+    "app",
+    "website"
+  ],
+  "author": "Jonathan Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanRamirezJ/backingApp/issues"
+  },
+  "homepage": "https://github.com/JonathanRamirezJ/backingApp/blob/master/README.md",
+  "devDependencies": {
+    "babel-core": "^5.8.*",
+    "babel-loader": "^5.3.*",
+    "webpack": "^1.12.*",
+    "webpack-dev-server": "^1.10.*"
+  },
+  "dependencies": {
+    "marked": "^0.3.6",
+    "react": "^0.13.*"
+  }
+}
